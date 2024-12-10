@@ -8,7 +8,7 @@ export const quiltLoader: ModLoader = {
     Ha28R6CL: 'lwVhp9o5', // Fabric Language Kotlin -> QKL
     '306612': '720410', // Fabric Language Kotlin -> QKL
   },
-  modrinthCategories: ['quilt', 'fabric'],
+  modrinthCategories: ['fabric'],
   curseforgeCategory: '5',
 };
 

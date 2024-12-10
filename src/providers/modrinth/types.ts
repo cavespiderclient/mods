@@ -260,7 +260,6 @@ export type Loader =
   | 'liteloader'
   | 'modloader'
   | 'neoforge'
-  | 'quilt'
   | 'rift';
 
 export type ProjectGallery = {
