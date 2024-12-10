@@ -1,25 +1,16 @@
 {
-  "name": "tomate-mods",
+  "name": "@cavespider/mods",
   "version": "1.0.0",
-  "description": "Utils for working with CurseForge and Modrinth at the same time",
   "main": "dist/index.js",
   "scripts": {
     "test": "jest --runInBand",
     "prepare": "tsc"
   },
-  "files": [
-    "dist"
+  "authors": [
+    "Tomate0613",
+    "Jonas F. Franke <jonasfranke@sdevs.org>"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tomate0613/tomate-mods.git"
-  },
-  "author": "Tomate0613",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Tomate0613/tomate-mods/issues"
-  },
-  "homepage": "https://github.com/Tomate0613/tomate-mods#readme",
   "dependencies": {
     "@xmcl/mod-parser": "^3.3.3",
     "axios": "^1.6.0",
